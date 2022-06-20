@@ -1,11 +1,12 @@
 # Zapisy
+
 - Wykład 01: 02.03.22 - Matematyka na przełomie XVII i XVIII w., spojrzenie z dystansu
-    - Jakub Kołaczyński; jk438520
+  - Jakub Kołaczyński; jk438520
 - Wykład 02: 09.03.22-Euler i inni. Analiza i mechanika w XVIII wieku.
-    - Jakub Kołaczyński; jk438520
+  - Jakub Kołaczyński; jk438520
 - Wykład 03: 16.03.22 - Rozwój algebry w XIX wieku.
 
-- Wykład 04: 23.03.22 - Aksjomatyzacja geometrii w XVII-XIX wieku
+- Wykład 0ł4: 23.03.22 - Aksjomatyzacja geometrii w XVII-XIX wieku
 
 - Wykład 05: 30.03.22 - Geometria i nie tylko.
 
