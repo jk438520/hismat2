@@ -100,7 +100,7 @@ Jedyną prostokreślną powierzchnią minimalną (nie licząc płaszczyzny) jest
 
 ## Powierzchnia P Schwarza
 
-![powierzchnia Schwarza](./obrazki/powierzchnia_p_schwarza.png)
+![powierzchnia Schwarza](./obrazki/wyklad05_powierzchnia_p_schwarza.png)
 
 Powierzchnia rozpięta na 4 krawędziach ośmiościanu foremnego.
 Są 2 płaszczyzny symetrii, każda z 4 symetrycznych części tego fragmentu nazywa się Flächenstück.
