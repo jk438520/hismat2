@@ -17,10 +17,10 @@
 - Wykład 07: 13.04.22 - Osiągnięcia matematyków polskich do końca XIX w.
 
 - Wykład 08: 20.04.22 - Podstawy matematyki. Od Dedekinda i Cantora do Cohena.
-  - Szymon Dziuda
+  - Szymon Dziuda; sdziuda
   
 - Wykład 09: 27.04.22 - Problemy Hilberta
-  - Przemek Fuchs; sdziuda
+  - Przemek Fuchs
 
 - Wykład 10: 11.05.2022 - Matematyka polska 1900-1939
 
