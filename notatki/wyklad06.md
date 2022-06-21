@@ -1,7 +1,7 @@
 
 # Wykład 06: 6.04.22 - Rygoryzacja analizy i fizyka matematyczna w XIX wieku
 
-Tagi: elektryczność, termodynamika, Fourier, szeregi Fouriera, Cauchy, Weierstrass, Bolzano, Gauss, Abel, patologiczne funkcje
+Tagi: elektryczność, termodynamika, Fourier, szeregi Fouriera, Cauchy, Weierstrass, Bolzano, Gauss, Abel, patologiczne funkcje \
 Rozwój mechaniki, nauki o elektryczności oraz nauki o cieple daje podwalimy do rozwoju fizyki matematycznej.
 
 
