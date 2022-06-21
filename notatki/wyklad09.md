@@ -1,3 +1,8 @@
+# Wykład 01: 02.03.22 - Matematyka na przełomie XVII i XVIII w., spojrzenie z dystansu
+
+Tagi: problemy Hilberta, Hilbert, hipoteza Riemanna, hipoteza Keplera z anegdotką
+
+
 ## David Hilbert
 Urodził się w Królewcu, robił tam doktorat (1885) u Lindemanna, który udowodnił przestępność liczby pi. Przez większość życia zawodowego był (1895 - 1930) profesorem w Getyndze (za jego życia najważniejszy ośrodek matematyczny świata). Jest znany (oprócz przestrzeni Hilberta) z wykładu, który wygłosił 8 sierpnia 1900 na Międzynarodowym Kongresie Matematyków w Paryżu (23 problemu; 10 omówił). Obok **Poincarego**, jeden z ostatnich ludzi mających przegląd całej matematyki, w ciągu swojego życia często zmieniał zainteresowania matematyczne od algebry po podstawy matematyki do fizyki matematycznej. Miał wielu uczniów, m. in. **Hugo Steinhausa**. Hilbert powinien się kojarzyć każdemu z formalizmem matematycznym.
 
