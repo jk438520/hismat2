@@ -9,7 +9,7 @@
 - Wykład 04: 23.03.22 - Aksjomatyzacja geometrii w XVII-XIX wieku
 
 - Wykład 05: 30.03.22 - Geometria i nie tylko.
-  - Szymon Dziuda; sdziuda 
+  - Szymon Dziuda; sdziuda
 
 - Wykład 06: 6.04.22 - Rygoryzacja analizy i fizyka matematyczna w XIX wieku
   - Przemek Fuchs
