@@ -10,9 +10,15 @@ Nie wiem jak najwygodniej będzie zarządzać tym repo. Możesz wysłać mi swó
 
 Jeśli chcesz zająć się którymś wykładem to najlepiej wybierz któryś jeszcze nieprzyklepany z pliku [zapisy.md](./zapisy.md). Postaraj się zrobić notatki z 2 wykładów.
 
-Dla ładnego sortowania pliki nazywaj 'wyklad07.md'.
+Pliki z notatkami umieszczaj w folderze [/notatki](/notatki/).
 
-Wrzuć na koniec trochę tagów, które łatwo będzie wyszukać.
+Dla ładnego sortowania pliki nazywaj [wyklad01.md](./notatki/wyklad01.md).
+
+Jeśli chcesz dodać jakieś obrazki (sic!) wrzuć je do folderu [/notatki/obrazki](./notatki/obrazki).
+
+Wrzuć na początek/koniec trochę tagów, które łatwo będzie wyszukać.
+
+Przepisywanie prezentacji jest ok, jeśli uzupełniasz ją o treści werbalne z wykładu. Nie ma po co kombinować na zapas, jeśli wykładowca zrobił już za Ciebie połowę roboty.
 
 Jak coś mi jeszcze przyjdzie do głowy lub ktoś zwróci na coś uwagę będę to dopisywał.
 
