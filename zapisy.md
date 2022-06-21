@@ -6,7 +6,7 @@
   - Jakub Kołaczyński; jk438520
 - Wykład 03: 16.03.22 - Rozwój algebry w XIX wieku.
 
-- Wykład 0ł4: 23.03.22 - Aksjomatyzacja geometrii w XVII-XIX wieku
+- Wykład 04: 23.03.22 - Aksjomatyzacja geometrii w XVII-XIX wieku
 
 - Wykład 05: 30.03.22 - Geometria i nie tylko.
 
@@ -15,7 +15,8 @@
 - Wykład 07: 13.04.22 - Osiągnięcia matematyków polskich do końca XIX w.
 
 - Wykład 08: 20.04.22 - Podstawy matematyki. Od Dedekinda i Cantora do Cohena.
-
+  - Szymon Dziuda
+  
 - Wykład 09: 27.04.22 - Problemy Hilberta
 
 - Wykład 10: 11.05.2022 - Matematyka polska 1900-1939
