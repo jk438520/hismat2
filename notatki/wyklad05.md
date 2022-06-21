@@ -1,6 +1,6 @@
 # Wykład 05: 30.03.22 - Geometria i nie tylko
 
-Tagi: [geometria, rozmaitość, krzywizna, powierzchnia minimalna, Gauss, Euler, Schwarz, Weierstrass, Riemann, Lie, Klein]
+Tagi: [geometria, rozmaitość, krzywizna, powierzchnia minimalna, helikoida, katenoida, Gauss, Euler, Schwarz, Weierstrass, Riemann, Lie, Klein]
 
 ## Zminay w geometrii na początku XVIII
 
@@ -33,7 +33,7 @@ Stopniowo rozwijane były nowe działy matematyki, w tym rachunek wariacyjny ora
 
 1. Ustalić punkt i wbić tam pręt prostopadły do powierzchni E.
 2. Ciąć powierzchnię płaszczyznami P prostopadłymi do E.
-3. Mierzyć krzywiznę krzywych w przecięciu P i E (będzie to odwrotność okręgu najbardziej przylagającego do danej krzywej).
+3. Mierzyć krzywiznę krzywych w przecięciu P i E (będzie to odwrotność promienia okręgu najbardziej przylegającego do danej krzywej).
 
 ## Krzywizny główne
 
