@@ -27,7 +27,7 @@ Stopniowo rozwijane były nowe działy matematyki, w tym rachunek wariacyjny ora
 
 ## Katenoida
 
-[Katenoida](./obrazki/wyklad05_katenoida.png)
+![Katenoida](./obrazki/wyklad05_katenoida.png)
 
 ## Jak mierzyć krzywiznę?
 
@@ -67,7 +67,7 @@ Stałą średnią krzywiznę mają elastyczne powierzchnie, które dzielą dwa z
 
 ## Helikoida
 
-[Helikoida](./obrazki/wyklad05_helikoida.png)
+![Helikoida](./obrazki/wyklad05_helikoida.png)
 
 Odkrycie Meusniera: helikoida ma $H=0$.
 
@@ -100,7 +100,7 @@ Jedyną prostokreślną powierzchnią minimalną (nie licząc płaszczyzny) jest
 
 ## Powierzchnia P Schwarza
 
-[powierzchnia Schwarza](./obrazki/powierzchnia_p_schwarza.png)
+![powierzchnia Schwarza](./obrazki/powierzchnia_p_schwarza.png)
 
 Powierzchnia rozpięta na 4 krawędziach ośmiościanu foremnego.
 Są 2 płaszczyzny symetrii, każda z 4 symetrycznych części tego fragmentu nazywa się Flächenstück.
