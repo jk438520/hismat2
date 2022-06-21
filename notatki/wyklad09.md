@@ -1,4 +1,4 @@
-# Wykład 01: 02.03.22 - Matematyka na przełomie XVII i XVIII w., spojrzenie z dystansu
+# Wykład 09: 27.04.22 - Problemy Hilberta
 
 Tagi: problemy Hilberta, Hilbert, hipoteza Riemanna, hipoteza Keplera z anegdotką
 
