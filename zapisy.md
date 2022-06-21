@@ -5,9 +5,9 @@
 - Wykład 02: 09.03.22-Euler i inni. Analiza i mechanika w XVIII wieku.
   - Jakub Kołaczyński; jk438520
 - Wykład 03: 16.03.22 - Rozwój algebry w XIX wieku.
-
+  - Wojtek Rzepliński
 - Wykład 04: 23.03.22 - Aksjomatyzacja geometrii w XVII-XIX wieku
-
+  - Wojtek Rzepliński
 - Wykład 05: 30.03.22 - Geometria i nie tylko.
   - Szymon Dziuda; sdziuda
 
