@@ -23,6 +23,7 @@
   - Przemek Fuchs
 
 - Wykład 10: 11.05.2022 - Matematyka polska 1900-1939
+  - Artur Kamieniecki
 
 - Wykład 11: 18.05.2022 - Wyrywki z historii topologii
 
