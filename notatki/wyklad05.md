@@ -1,6 +1,6 @@
 # Wykład 05: 30.03.22 - Geometria i nie tylko
 
-Tagi: [geometria, rozmaitość, krzywizna, powierzchnia minimalna, helikoida, katenoida, Gauss, Euler, Schwarz, Weierstrass, Riemann, Lie, Klein]
+Tagi: geometria, rozmaitość, krzywizna, powierzchnia minimalna, helikoida, katenoida, Gauss, Euler, Schwarz, Weierstrass, Riemann, Lie, Klein
 
 ## Zminay w geometrii na początku XVIII
 
