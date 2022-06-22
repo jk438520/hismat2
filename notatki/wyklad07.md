@@ -1,4 +1,4 @@
-# Wykład 10: 13.04.22   - Osiągnięcia matematyków polskich do końca XIX w.
+# Wykład 07: 13.04.22   - Osiągnięcia matematyków polskich do końca XIX w.
 
 Tagi: [Początki matematyki w polsce]
 
@@ -61,7 +61,7 @@ Dowiedzione przez Mikołaja kopernika
 Między innymi matematyk, astronom, fizyk, teolog, ksiądz, historyk nauki i rektor Uniwersytetu Jagielońskiego i jej dobrodziej (sponsor)\
 Po łacienie Joannes Broscius (tak się podpisywał)\
 Nie jest do końca jasne jak nazywał się po polsku\
-![Jan Brożek](./obrazki/wyklad10-zyciorysBrozek.png)\
+![Jan Brożek](./obrazki/wyklad07-zyciorysBrozek.png)\
 !!Uwaga daty na zdjęciu błędne (tam gdzie jest 19** powinno być 16**)
 
 W testamencie hojnie obdarzył uniwersystet jagieloński. Żądał aby śpiew chóralny odbywał się według przepisów sztuki, polegających na zastosowaniu matematycznych prawidzeł harmonii.
@@ -97,7 +97,7 @@ Listy kopernika i retyka
 Planował napisanie obszernej biografi kopernika (nie udało się)
 
 ### Cytat o nim
-![Cytat](./obrazki/wyklad10-cytatBrozek.png)
+![Cytat](./obrazki/wyklad07-cytatBrozek.png)
 
 ## Adam Adamandy Kochański - 1631 - 1700
 Nadworny matematyk Jana III Sobieskiego do 1685\
@@ -112,7 +112,7 @@ Od 1690 wrócił do Warszawy
 ### Rektyfikacja okręgu (praca Acta Eruditorium)
 Konstrukcja odcinka o dlugości danego okręgu\
 Pokazał konstrukcje przybliżoną\
-![Rektyfikacja okręgu](./obrazki/wyklad10-rektyfikacjaokregu.png)
+![Rektyfikacja okręgu](./obrazki/wyklad07-rektyfikacjaokregu.png)
 
 ### Kwadratura koła
 Konstrukcja kwadratu o polu równym polu danego koła\
@@ -161,18 +161,18 @@ Zdradził fortywikacje warszawskiej pragi wojskom rosyjskim, ponieważ był w ni
 We francji doznał objawienia (stad imie maria)
 
 ### Wyznacznik Wrońskiego
-![Wyznacznik Wrońskiego](./obrazki/wyklad10-wyznacznikWronskiego.png)
+![Wyznacznik Wrońskiego](./obrazki/wyklad07-wyznacznikWronskiego.png)
 
 ## Franciszek Mertens - 1840 - 1927
 Kierował katedrą na UJ 1865 - 1884\
-![Franciszek Mertens](./obrazki/wyklad10-MertensZyciorys.png)
+![Franciszek Mertens](./obrazki/wyklad07-MertensZyciorys.png)
 Matematyk polsko austraicki
 
 ### Twierdzenie Mertensa - 1874
 Jeżeli jeden szereg jest zbieżny, a drugi zbieżny bezwzględniue to iloczyn Cauchiego ich jest zbieżny
 
 ## Hipoteza Mertensa
-![Hipoteza Mertensa](./obrazki/wyklad10-hipotezaMertensa.png)\
+![Hipoteza Mertensa](./obrazki/wyklad07-hipotezaMertensa.png)\
 Jeżeli hipoteza mertensa jest prawdziwa to prawdziwa jest hipoteza riemana\
 Niestety hipoteza mertensa nie jest prawdziwa
 
@@ -180,14 +180,14 @@ Niestety hipoteza mertensa nie jest prawdziwa
 O rozmieszczeniu liczb pierwszych wśród liczb naturalnych
 
 ## Marian Baraniecki - 1848 - 1895
-![Marian Baraniecki](./obrazki/wyklad10-BranieckiZyciorys.png)\
+![Marian Baraniecki](./obrazki/wyklad07-BranieckiZyciorys.png)\
 1882 - inicjator, redaktor i wydawca biblioteki matematyczno fizycznej\
 Wydał:\
 Teoria wyznaczkinków - 1879\
 Początkowy wykład syntetyczny własności przecięć stożkowych - 1885
 
 ## Samuel Dickstein - 1851 - 1939
-![Samuel Dickstein](./obrazki/wyklad10-DicksteinZyciorys.png)\
+![Samuel Dickstein](./obrazki/wyklad07-DicksteinZyciorys.png)\
 Profesor Uniwersytetu Warszawskiego
 
 ## Ludwik Antoni Birkenmajer - 1855 - 1929
