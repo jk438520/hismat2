@@ -1,4 +1,4 @@
-# Wykład 10: 02.03.22 - Polscy matematycy i ich osiągnięcia
+# Wykład 10: 11.05.2022  - Polscy matematycy i ich osiągnięcia
 
 Tagi: [Początki matematyki w polsce]
 
