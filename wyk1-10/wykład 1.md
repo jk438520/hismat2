@@ -874,7 +874,7 @@ matamtycy tam jedli pili(więcej pili). Księga szkocka - zeszyt w kawierni szko
 + analiza Funkcjonala
 + postawił problem jako nagrodę ufundował żywą gęś. została rozwiązana w latach 70-tych. Gęś została Zamordowana! no i zjedzona bo nie można było jej przewozić za granicę 
 
-![GĘŚ!!](/home/wiktor/Documents/Historia Matematyki/GES.png){ width=50% }
+![GĘŚ!!](./GES.png){ width=50% }
 
 ### Warszwa:
 Główną postacią był wacław Sierpiński: dywan sierpińskiego (wymyślił go Stafan Mazurkiewicz), Krzywa trójkątowa (uszczelka) Sierpińskiego, 
@@ -896,7 +896,7 @@ Główną postacią był wacław Sierpiński: dywan sierpińskiego (wymyślił g
 
 ### Poznań: Zygalski, Różycki Rejewski
  
-![dziekan strzelecki - Przerażony](/home/wiktor/Documents/Historia Matematyki/strzelecki3.png){ width=50% }
+![dziekan strzelecki - Przerażony](./strzelecki3.png){ width=50% }
 
 Wykład 11
 ================================
