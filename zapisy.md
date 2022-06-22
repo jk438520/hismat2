@@ -15,6 +15,7 @@
   - Przemek Fuchs
 
 - Wykład 07: 13.04.22 - Osiągnięcia matematyków polskich do końca XIX w.
+  - Artur Kamieniecki
 
 - Wykład 08: 20.04.22 - Podstawy matematyki. Od Dedekinda i Cantora do Cohena.
   - Szymon Dziuda; sdziuda
@@ -23,7 +24,6 @@
   - Przemek Fuchs
 
 - Wykład 10: 11.05.2022 - Matematyka polska 1900-1939
-  - Artur Kamieniecki
 
 - Wykład 11: 18.05.2022 - Wyrywki z historii topologii
 
