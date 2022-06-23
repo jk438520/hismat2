@@ -31,7 +31,9 @@
  
 - Wykład 12: 25.05.2022 - Jak informatyka wyrosła z matematyki i jakie ma z nią relacje?
   - Jakub Kołaczyński; jk438520
+
 - Wykład 13: 1.06.2022 - Matematyka losowości, II.
+  - Basia Bugała
 
 - Wykład 14: 8.06.2022 - Panel o zastosowaniach matematyki
 
