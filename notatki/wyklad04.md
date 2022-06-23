@@ -47,8 +47,7 @@ Ideę tę widać u **Isaaa Newtona**, który w 1695 roku opracował klasyfikacj�
 
 Najważniejsze  jednak tw. **Blaisa Pascala** (1623-1662):
 
-<img src="./obrazki/
-wyklad04_szesciokat.png" alt="Trojca Święta" width="300"/>
+<img src="./obrazki/wyklad04_szesciokat.png" alt="tw. Pascala o szesciokacie" width="300"/>
 
 
 Jeżeli mamy krzywą stożkową (tutaj okrąg) i wpisany jest tam szcześciokąt, to punkty przecięcia odpowiednich boków (branych cyklicznie co 3), to są trzy punkty są współliniowe.
@@ -65,8 +64,7 @@ Metryka Kleina: punkty $A,B$ leżące wewnątrz koła na cięciwie o końcach $P
 ## Geometria Euklidesowska
 "Elementy" Euklides. Dzieło to stanowi wzór metody aksjomatycznej. 
 
-<img src="./obrazki/
-wyklad04_aksjomaty.png" alt="Trojca Święta" width="500"/>
+<img src="./obrazki/wyklad04_aksjomaty.png" alt="Aksjomaty Euklidesa" width="500"/>
 
 
 Koncepcja prostej: to obiekt, który może być dowolnie rozszerzany, nie jest skończony. Elementy stały się podstawowym podręcznikiem geometrii (w szkołach). Jednak Rouse Ball twierdzi, że w ten sposób uzyskały nie zasłużoną sławę i narzuciły metodę. Jednak kontrowersje wzniecał ostatni, **aksjomat V**.
