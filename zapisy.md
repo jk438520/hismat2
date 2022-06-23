@@ -24,9 +24,10 @@
   - Przemek Fuchs
 
 - Wykład 10: 11.05.2022 - Matematyka polska 1900-1939
+  - LaMavia
 
 - Wykład 11: 18.05.2022 - Wyrywki z historii topologii
-
+  
 - Wykład 12: 25.05.2022 - Jak informatyka wyrosła z matematyki i jakie ma z nią relacje?
   - Jakub Kołaczyński; jk438520
 - Wykład 13: 1.06.2022 - Matematyka losowości, II.
