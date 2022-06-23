@@ -27,8 +27,7 @@ Alberti jako pierwszy zauważył, że proponowane przez niego przekształcenie n
 
 Metodę zaproponowaną przez Albertiego rozwinął **Albrecht Durer**(471-1528).
 
-<img src="./obrazki/
-wyklad04_malarz_w_trakcie_tworzenia.png" alt="Trojca Święta" width="500"/>
+<img src="./obrazki/wyklad04_malarz_w_trakcie_tworzenia.png" alt="Metoda malowania" width="500"/>
 
 Zaburzenie proporcji nie zgadzało się z Elementami Euklidesa.
 
