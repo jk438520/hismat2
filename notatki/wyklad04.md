@@ -119,7 +119,7 @@ Klein wyróżnia trzy geometrie: hiperboliczną, eliptyczną i paraboliczną. Kr
 ## Aksjomatyzacja geometrii Euklidesowej
 ### David Hilbert (1862 - 1943)
 
-Okazało się, że aksjomaty są niepełne, oprócz V. postulatu. Opublikował w 1899 zestaw aksjomatów, podzielił je na pięć grup
+Okazało się, że aksjomaty są niepełne. Opublikował w 1899 zestaw aksjomatów, podzielił je na pięć grup
 - aksjomaty incydencji (8)- zależności, prosta przechodzi przez punkt itd.
 - aksjomaty uporządkowania (4) - między dwoma punkty jest jedna prosta, dodany aksjomat Pascha)
 - aksjomaty przystawania (5)
