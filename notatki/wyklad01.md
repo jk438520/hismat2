@@ -143,7 +143,7 @@ Osiągnięcia Daniela (bo Nicholaus II zmarł tuż po przyjeździe do Petersurbu
 
 Pierrer Currie był potomkiem Bernoullich.
 
-### Guillaume Francois de l'Hospital (1331-1704)
+### Guillaume Francois de l'Hospital (1631-1704)
 
 Francuski arystokrata. Płacił stałą pensję Johann'owi Bernoullie'mu za wyłącznośc do jego prac naukowych.
 
